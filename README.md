@@ -1,7 +1,8 @@
 ## FastPhotoStyle
 
 ### 序
-deep-photo-styletransferはMatlabなどが必要でセットアップがかなり面倒で、かつ、手順が複雑でしたが、nvidiaが公開したライブラリのFastPhotoStyleはpythonのみで完結し、nvidia謹製の機能群のみの依存ですむので、Matlab依存よりはマシで簡単でした。  
+[deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)はMatlabなどが必要でセットアップがかなり面倒で、かつ、手順が複雑でしたが、nvidiaが公開したライブラリのFastPhotoStyleはpythonのみで完結し、nvidia謹製の機能群のみの依存ですむので、Matlab依存よりはマシで簡単でした。  
+この実装系の優れたところは輪郭や、絵柄などを変化させず、色やコントラストを大きく変化させることに限定されているので、実際のアート領域と相性が良さそうな点があります（すごい）  
 
 幾つかの例を載せつつ、簡単に実行してみたいと思います。  
 
