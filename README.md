@@ -12,6 +12,15 @@ deep-photo-styletransferはMatlabなどが必要でセットアップがかな�
 ### 注意点
 - nvidiaのcuda 9.0以降であること
 - python2のライブラリでないとうまく動作しないことがある
+- gcc, g++のversionが2018/2時点で5までの対応となっている
+
+**adhocな対応で動かす**  
+```console
+$ sudo rm /usr/bin/g++
+$ sudo ln -s /usr/bin/g++-5 /usr/bin/g++
+$ sudo rm /usr/bin/gcc
+$ sudo ln -s /usr/bin/gcc-5 /usr/bin/gcc
+```
 
 
 ### License
