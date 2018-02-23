@@ -79,7 +79,9 @@ for i in range(5000):
   <img width="100%" src="https://user-images.githubusercontent.com/4949982/36600395-793808f8-18f5-11e8-8141-452621f263a9.png">
 </div>
 
-PyTorchとcudaだけでStyle Transferができるので便利ですね
+PyTorchとcudaだけでStyle Transferができるので便利ですね  
+
+
 
 
 ### License
