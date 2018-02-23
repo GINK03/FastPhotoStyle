@@ -77,6 +77,10 @@ for i in range(5000):
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/4949982/36600395-793808f8-18f5-11e8-8141-452621f263a9.png">
 </div>
+
+PyTorchとcudaだけでStyle Transferができるので便利ですね
+
+
 ### License
 Copyright (C) 2018 NVIDIA Corporation.  All rights reserved.
 Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
