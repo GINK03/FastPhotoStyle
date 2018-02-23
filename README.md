@@ -70,9 +70,6 @@ for i in range(5000):
   <img width="100%" src="https://user-images.githubusercontent.com/4949982/36600344-541f806e-18f5-11e8-9886-a1ed9086ae2b.png">
 </div>
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/4949982/36600366-61512fb2-18f5-11e8-85ee-5747a2a37e61.png">
-</div>
-<div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/4949982/36600372-686a0576-18f5-11e8-9c76-341ffa32d06f.png">
 </div>
 <div align="center">
