@@ -87,6 +87,11 @@ PyTorchとcudaだけでStyle Transferができるので便利ですね
 
 https://github.com/GINK03/gink03.github.io/blob/master/_posts/posts/2017-04-07-deep-photo-style-transfer.md
 
+## フォークしたレポジトリ
+今回、上記の例を作成するためにフォークしたレポジトリです  
+
+https://github.com/GINK03/ForkFastPhotoStyle
+
 ### License
 Copyright (C) 2018 NVIDIA Corporation.  All rights reserved.
 Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
