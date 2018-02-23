@@ -13,6 +13,7 @@ deep-photo-styletransferはMatlabなどが必要でセットアップがかな�
 - nvidiaのcuda 9.0以降であること
 - python2のライブラリでないとうまく動作しないことがある
 - gcc, g++のversionが2018/2時点で5までの対応となっている
+- cudaのtensorflowなどで普段参照しないcudaのlibを参照するのでLD_LIBRARY_PATHを確認する必要があるかもしれない  
 
 **adhocな対応で動かす**  
 ```console
