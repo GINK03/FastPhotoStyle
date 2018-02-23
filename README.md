@@ -83,8 +83,10 @@ PyTorchとcudaだけでStyle Transferができるので便利ですね
 
 ## 余談
 約一年前に、DeepPhotoStyleTransferの方を苦労しながらやった感じでして、きれいな絵同士を使うとうまくいことがわかっています  
-ただ、面倒な環境依存が多く、運用プロセスまで載せたくなかったのでサーベイで止まっていましたがこれは良さそうですね。 
 
+ただ、面倒な環境依存が多く、運用プロセスまで載せたくなかったのでサーベイで止まっていましたがnvidia版は良さそうですね。 
+
+一年前の奮闘日記です
 https://github.com/GINK03/gink03.github.io/blob/master/_posts/posts/2017-04-07-deep-photo-style-transfer.md
 
 ## フォークしたレポジトリ
