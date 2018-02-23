@@ -1,5 +1,19 @@
 ## FastPhotoStyle
 
+### 序
+deep-photo-styletransferはMatlabなどが必要でセットアップがかなり面倒で、かつ、手順が複雑でしたが、nvidiaが公開したライブラリのFastPhotoStyleはpythonのみで完結し、nvidia謹製の機能群のみの依存ですむので、Matlab依存よりはマシで簡単でした。  
+
+幾つかの例を載せつつ、簡単に実行してみたいと思います。  
+
+### nvidiaからのフォークの変更点
+- 不完全ながらpython3対応(nvidiaのpythonのモジュールの対応待ち)
+- 自動で様々な組み合わせを試すスクリプトを追加
+
+### 注意点
+- nvidiaのcuda 9.0以降であること
+- python2のライブラリでないとうまく動作しないことがある
+
+
 ### License
 Copyright (C) 2018 NVIDIA Corporation.  All rights reserved.
 Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
